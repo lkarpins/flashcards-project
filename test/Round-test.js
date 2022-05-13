@@ -19,7 +19,7 @@ describe('Round',() => {
          turn = new Turn('object',card); 
     })
 
-    it('should be a function', function() {
+    it('should be a function',() => {
         expect(Round).to.be.a('function');
     })
 
@@ -50,8 +50,4 @@ describe('Round',() => {
         expect(round.calculatePercentCorrect()).to.equal(100);
     } )
 
-    it('should display message when round is over',() => {
-        round.endRound();
-        expect(round.endRound()).to.equal(`** Round over! ** You answered 100% of the questions correctly!`);
-    } )
 });
