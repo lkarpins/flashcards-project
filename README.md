@@ -10,7 +10,7 @@ By: [Lidia Karpinski](www.linkedin.com/in/lidia-karpinski)
 * [Acknowledgements](https://github.com/lkarpins/flashcards-project/edit/main/README.md#acknowledgements)
 
 ## Introduction
-Switch up your studying methods with this interactive game! Fun with Flashcards reviews important Mod2 concepts with a multiple-choice quiz game played completely within your computer’s terminal! Not only will you receive immediate feedback regarding your choices, but automated percentage score at the end of the round! Enjoy! 
+Switch up your studying methods with this interactive game! Fun with Flashcards reviews important Mod2 concepts with a multiple-choice quiz game played completely within your computer’s terminal! Not only will you receive immediate feedback regarding your choices, but an automated percentage score at the end of the round! Enjoy! 
 
 ## Set Up
 1. Fork this repository
